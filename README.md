@@ -33,5 +33,13 @@ pip install pyopengltk PyOpenGL
 # ▶️ Step 2: Run the Script
 python burger.py
 
-# You will see a 3D bouncing burger inside a window.
-# Press the spacebar to pause/resume the animation.
+Option 2: Run the Pre-Built Executable (No Installation Needed – Windows Only)
+📁 Steps:
+
+Go to the humberger folder.
+
+Click on the disk icon or open the folder directly.
+
+Double-click on humberger.exe.
+
+✅ This launches the app without needing Python or any installation.
